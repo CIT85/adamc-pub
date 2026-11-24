@@ -1,0 +1,8 @@
+.attendence-hero {
+    min-height: 70vh;
+    background-image: linear-gradient(rgba(114, 126, 29, 0.5), rgba(21, 67, 87, 0.7)), url(./images/hero-new.webp);
+    background-size: cover;
+    background-position: center 30%;
+    text-align: center;
+    padding-block: 40vh 5vh;
+}
