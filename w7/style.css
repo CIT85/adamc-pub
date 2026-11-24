@@ -4,5 +4,32 @@
     background-size: cover;
     background-position: center 30%;
     text-align: center;
-    padding-block: 40vh 5vh;
+    padding-block: 20vh 5vh;
+}
+
+.attendence-hero h2 {
+    color: white;
+    font-size: 8rem;
+    text-shadow: 2px 2px 10px rgb(0, 0, 0, 0.8);
+    text-align: center;
+}
+
+.attendence-card {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url(./images/texture-new.webp);
+    background-size: cover;
+    background-position: center bottom;
+    max-width: 500px;
+    margin: 4rem auto;
+    border-left: 10px solid rgba(180, 176, 176, 0.8);
+    padding: 40px;
+}
+
+.attendence-card h2 {
+    color: white;
+    text-shadow: 1px 1px 0px white;
+
+}
+
+.attendence-card ul {
+    color: rgb(168, 176, 173);
 }
